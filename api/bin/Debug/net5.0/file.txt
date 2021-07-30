@@ -59,3 +59,64 @@
 2021-07-30 10:31:17.5212|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
 2021-07-30 10:31:17.5212|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
 2021-07-30 10:31:17.5212|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 10:45:20.6653|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 10:45:26.3968|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 10:45:26.4168|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 10:45:26.4168|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 10:45:26.4168|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 10:45:26.4213|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 10:45:48.2879|INFO|api.Controllers.CastController|El Cast Con el 4 no fue encontrado
+2021-07-30 11:14:13.0638|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE "Movies" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Movies" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "Desc" TEXT NOT NULL
+);
+2021-07-30 11:15:08.2153|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE "Movies" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Movies" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "Desc" TEXT NOT NULL
+);
+2021-07-30 11:17:35.6149|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE "Movies" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Movies" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "Desc" TEXT NOT NULL
+);
+2021-07-30 11:18:10.2753|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE "Movies" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Movies" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "Desc" TEXT NOT NULL
+);
+2021-07-30 11:42:29.3830|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 11:42:29.4290|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 11:42:29.4290|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 11:42:29.4290|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 11:42:29.4290|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 11:42:56.0920|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 11:43:02.6001|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 11:43:02.6208|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 11:43:02.6208|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 11:43:02.6208|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 11:43:02.6208|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 11:43:14.6282|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 11:43:37.7667|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 11:43:37.7870|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 11:43:37.7887|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 11:43:37.7887|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 11:43:37.7887|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 11:43:53.2439|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 11:44:08.6741|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 11:44:08.6920|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 11:44:08.6920|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 11:44:08.6948|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 11:44:08.6948|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 11:44:11.3327|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 11:44:18.6903|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 11:44:18.7104|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 11:44:18.7104|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 11:44:18.7104|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 11:44:18.7104|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 11:45:23.1368|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...

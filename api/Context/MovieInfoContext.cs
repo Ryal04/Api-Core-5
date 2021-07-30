@@ -11,7 +11,7 @@ namespace api.Context
 
         public MovieInfoContext(DbContextOptions<MovieInfoContext> options): base(options)
         {
-            Database.EnsureCreated();
+            //Database.EnsureCreated();
         }
 
     }

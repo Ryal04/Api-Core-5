@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "M9WEMfXWv1VnSHHrs6IKWnE354YrYxUs6iYxUNG6HaMM3C1+l02jTXYY4CFsRPyA7sddJ3smZSC1XjgNcPRZSA==",
+  "dgSpecHash": "/iBAIxk+WmwXmvoU7jsJK6UhIvCGQDYeBLxTLA6LKxDEOnahw+dbT9o28sqxnBa411j4jlTn36iuhutbexjKkQ==",
   "success": true,
   "projectFilePath": "D:\\Users\\PRACTECNOLOGIA03\\Documents\\Api\\api\\api.csproj",
   "expectedPackageFiles": [
+    "D:\\Users\\PRACTECNOLOGIA03\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "D:\\Users\\PRACTECNOLOGIA03\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.8\\microsoft.aspnetcore.jsonpatch.5.0.8.nupkg.sha512",
     "D:\\Users\\PRACTECNOLOGIA03\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.8\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.8.nupkg.sha512",
     "D:\\Users\\PRACTECNOLOGIA03\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -12,6 +13,7 @@
     "D:\\Users\\PRACTECNOLOGIA03\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.8\\microsoft.entityframeworkcore.5.0.8.nupkg.sha512",
     "D:\\Users\\PRACTECNOLOGIA03\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.8\\microsoft.entityframeworkcore.abstractions.5.0.8.nupkg.sha512",
     "D:\\Users\\PRACTECNOLOGIA03\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.8\\microsoft.entityframeworkcore.analyzers.5.0.8.nupkg.sha512",
+    "D:\\Users\\PRACTECNOLOGIA03\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.8\\microsoft.entityframeworkcore.design.5.0.8.nupkg.sha512",
     "D:\\Users\\PRACTECNOLOGIA03\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.8\\microsoft.entityframeworkcore.relational.5.0.8.nupkg.sha512",
     "D:\\Users\\PRACTECNOLOGIA03\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\5.0.8\\microsoft.entityframeworkcore.sqlite.5.0.8.nupkg.sha512",
     "D:\\Users\\PRACTECNOLOGIA03\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\5.0.8\\microsoft.entityframeworkcore.sqlite.core.5.0.8.nupkg.sha512",

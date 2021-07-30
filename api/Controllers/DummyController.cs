@@ -14,7 +14,7 @@ namespace api.Controllers
             _context = context ?? throw new ArgumentNullException(nameof(context));
         }
 
-        
+        [HttpGet]
         public IActionResult TestDatabase(){
             return Ok();
         }
