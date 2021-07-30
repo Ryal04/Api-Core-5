@@ -1,6 +1,7 @@
 using System;
 using System.Linq;
 using api.Models;
+using api.Services;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -12,8 +13,11 @@ namespace api.Controllers
     public class CastController : ControllerBase 
     {
         public ILogger<CastController> _logger;
-        public CastController(ILogger<CastController> logger){
+        private IMailService _localMailService;
+
+        public CastController(ILogger<CastController> logger, IMailService localMailService){
            _logger = logger ?? throw new ArgumentNullException(nameof(logger));
+           _localMailService = localMailService ?? throw new ArgumentNullException(nameof(logger));
         }
         
        
@@ -31,7 +35,6 @@ namespace api.Controllers
         public IActionResult GetActionResult(int movieId,int id){
             
             try{
-                throw new InvalidOperationException(); 
 
             var movie = MovieDataStore.Current.Movies.FirstOrDefault(x => x.Id == movieId);
 
@@ -136,6 +139,7 @@ namespace api.Controllers
 
         [HttpDelete("{id}")]
         public IActionResult DeleteCast(int movieId, int id){
+
            var movie = MovieDataStore.Current.Movies.FirstOrDefault(x => x.Id == movieId);
 
            if(movie == null){
@@ -147,7 +151,9 @@ namespace api.Controllers
                 return NotFound();
            }
 
+           _localMailService.Send("Recurso Eliminado", $"el recurso con id {id} fue eliminado");
            movie.Casts.Remove(castFromStore);
+
            return NoContent(); 
         }
     }

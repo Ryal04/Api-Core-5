@@ -2,10 +2,13 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using api.Context;
+using api.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.Formatters;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
@@ -21,7 +24,13 @@ namespace api
                 action.ReturnHttpNotAcceptable = true;
             }).AddXmlDataContractSerializerFormatters()
             .AddNewtonsoftJson();
-
+            
+            services.AddTransient<IMailService, LocalMailService>();
+            string connectionString = "Data Source=movie.db";
+            
+            services.AddDbContext<MovieInfoContext>(o => {
+                o.UseSqlite(connectionString);
+            });
 
         }
 
