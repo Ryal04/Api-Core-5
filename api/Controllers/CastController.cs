@@ -1,3 +1,4 @@
+using System;
 using System.Linq;
 using api.Models;
 using Microsoft.AspNetCore.JsonPatch;
@@ -10,7 +11,7 @@ namespace api.Controllers
     [Route("api/movies/{movieid}/casts")]
     public class CastController : ControllerBase 
     {
-        private ILogger<CastController> _logger;
+        public ILogger<CastController> _logger;
         public CastController(ILogger<CastController> logger){
            _logger = logger ?? throw new ArgumentNullException(nameof(logger));
         }
@@ -28,16 +29,28 @@ namespace api.Controllers
 
         [HttpGet ("{id}",Name = "GetCasts")]
         public IActionResult GetActionResult(int movieId,int id){
+            
+            try{
+                throw new InvalidOperationException(); 
+
             var movie = MovieDataStore.Current.Movies.FirstOrDefault(x => x.Id == movieId);
+
             if(movie == null){
                 return NotFound(); 
             }
 
             var cast = movie.Casts.FirstOrDefault(x => x.Id == id);
+
             if(cast == null){
+                  _logger.LogInformation($"El Cast Con el {id} no fue encontrado");
                   return NotFound(); 
             }else{
                 return Ok(cast);
+            }
+
+            }catch(System.Exception ex){
+              _logger.LogCritical($"Error ocurrido en intento de buqueda del Cast con Id: {id} el cual no fue encontrado", ex);
+               return StatusCode (500, "Disculpe Tuvimos un error <3");
             }
         }
 

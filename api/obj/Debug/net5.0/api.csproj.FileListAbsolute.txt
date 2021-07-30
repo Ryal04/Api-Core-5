@@ -26,3 +26,6 @@ D:\Users\PRACTECNOLOGIA03\Documents\Api\api\bin\Debug\net5.0\Microsoft.AspNetCor
 D:\Users\PRACTECNOLOGIA03\Documents\Api\api\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\Users\PRACTECNOLOGIA03\Documents\Api\api\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 D:\Users\PRACTECNOLOGIA03\Documents\Api\api\obj\Debug\net5.0\api.csproj.CopyComplete
+D:\Users\PRACTECNOLOGIA03\Documents\Api\api\bin\Debug\net5.0\NLog.dll
+D:\Users\PRACTECNOLOGIA03\Documents\Api\api\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+D:\Users\PRACTECNOLOGIA03\Documents\Api\api\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
