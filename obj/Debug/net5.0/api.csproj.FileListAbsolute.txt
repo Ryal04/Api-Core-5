@@ -118,3 +118,5 @@ D:\Users\practecnologia03\Documents\api\obj\Debug\net5.0\api.dll
 D:\Users\practecnologia03\Documents\api\obj\Debug\net5.0\ref\api.dll
 D:\Users\practecnologia03\Documents\api\obj\Debug\net5.0\api.pdb
 D:\Users\practecnologia03\Documents\api\obj\Debug\net5.0\api.genruntimeconfig.cache
+D:\Users\practecnologia03\Documents\api\bin\Debug\net5.0\AutoMapper.dll
+D:\Users\practecnologia03\Documents\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

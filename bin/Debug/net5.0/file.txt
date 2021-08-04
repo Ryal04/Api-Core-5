@@ -305,3 +305,37 @@ CREATE TABLE "Movies" (
 2021-08-04 15:25:23.9053|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
 2021-08-04 15:25:23.9053|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
 2021-08-04 15:25:23.9053|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 15:47:43.2728|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 15:47:43.3017|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 15:47:43.3398|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 15:47:43.3398|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 15:47:43.3398|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 16:00:49.0738|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 16:00:49.0949|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 16:00:49.0949|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 16:00:49.0949|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 16:00:49.0949|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 16:10:17.4974|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 16:28:56.6677|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 16:28:56.6898|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 16:28:56.6898|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 16:28:56.6898|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 16:28:56.6898|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 16:29:03.3213|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 16:29:03.3401|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 16:29:03.3401|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 16:29:03.3401|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 16:29:03.3473|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 16:29:09.5893|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 16:29:19.6253|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 16:29:19.6447|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 16:29:19.6447|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 16:29:19.6447|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 16:29:19.6447|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 16:29:32.3918|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 16:39:48.1697|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 16:39:56.5074|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 16:39:56.5284|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 16:39:56.5284|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 16:39:56.5284|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 16:39:56.5350|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api

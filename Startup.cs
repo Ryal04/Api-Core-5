@@ -44,6 +44,7 @@ namespace api
             });
 
             services.AddScoped<IMovieInfoRepository, MovieInfoRepository>();
+            services.AddAutoMapper(typeof(Startup));
 
         }
 
