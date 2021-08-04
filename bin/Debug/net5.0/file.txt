@@ -1,0 +1,307 @@
+2021-07-30 08:18:16.8051|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 08:18:16.8348|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 08:18:16.8473|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 08:18:16.8473|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 08:18:16.8473|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 08:18:22.7331|FATAL|api.Controllers.CastController|Error ocurrido en intento de buqueda del Cast con Id: 4 el cual no fue encontrado
+2021-07-30 08:37:46.7139|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 08:37:46.7330|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 08:37:46.7330|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 08:37:46.7330|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 08:37:46.7330|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 08:42:36.2541|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 08:42:36.2817|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 08:42:36.2817|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 08:42:36.2817|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 08:42:36.2904|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 09:11:32.6665|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 09:11:32.6931|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 09:11:32.6931|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 09:11:32.6931|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 09:11:32.6931|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 09:11:39.8612|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-07-30 09:11:42.2289|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-07-30 09:11:43.2022|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-07-30 09:11:44.0294|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-07-30 09:13:39.0292|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 09:13:39.0549|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 09:13:39.0549|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 09:13:39.0549|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 09:13:39.0549|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 09:15:06.9579|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 09:15:06.9847|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 09:15:06.9847|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 09:15:06.9847|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 09:15:06.9847|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 09:16:29.3292|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 09:16:29.3568|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 09:16:29.3606|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 09:16:29.3606|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 09:16:29.3606|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 09:17:00.5102|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 09:17:00.5369|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 09:17:00.5369|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 09:17:00.5369|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 09:17:00.5369|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 09:36:23.5772|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 09:36:23.6123|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 09:36:23.6123|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 09:36:23.6123|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 09:36:23.6269|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 10:29:10.0846|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 10:29:10.1221|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 10:29:10.1221|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 10:29:10.1221|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 10:29:10.1368|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 10:31:13.8718|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 10:31:17.5008|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 10:31:17.5212|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 10:31:17.5212|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 10:31:17.5212|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 10:31:17.5212|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 10:45:20.6653|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 10:45:26.3968|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 10:45:26.4168|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 10:45:26.4168|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 10:45:26.4168|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 10:45:26.4213|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 10:45:48.2879|INFO|api.Controllers.CastController|El Cast Con el 4 no fue encontrado
+2021-07-30 11:14:13.0638|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE "Movies" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Movies" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "Desc" TEXT NOT NULL
+);
+2021-07-30 11:15:08.2153|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE "Movies" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Movies" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "Desc" TEXT NOT NULL
+);
+2021-07-30 11:17:35.6149|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE "Movies" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Movies" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "Desc" TEXT NOT NULL
+);
+2021-07-30 11:18:10.2753|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE "Movies" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Movies" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "Desc" TEXT NOT NULL
+);
+2021-07-30 11:42:29.3830|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 11:42:29.4290|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 11:42:29.4290|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 11:42:29.4290|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 11:42:29.4290|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 11:42:56.0920|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 11:43:02.6001|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 11:43:02.6208|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 11:43:02.6208|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 11:43:02.6208|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 11:43:02.6208|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 11:43:14.6282|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 11:43:37.7667|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 11:43:37.7870|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 11:43:37.7887|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 11:43:37.7887|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 11:43:37.7887|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 11:43:53.2439|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 11:44:08.6741|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 11:44:08.6920|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 11:44:08.6920|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 11:44:08.6948|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 11:44:08.6948|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 11:44:11.3327|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 11:44:18.6903|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 11:44:18.7104|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 11:44:18.7104|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 11:44:18.7104|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 11:44:18.7104|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 11:45:23.1368|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 13:44:30.5317|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 13:44:30.5875|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 13:44:30.5898|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 13:44:30.5898|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 13:44:30.5898|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 13:45:22.6101|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 13:45:28.6529|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 13:45:28.6725|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 13:45:28.6725|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 13:45:28.6725|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 13:45:28.6725|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 13:45:34.3424|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 13:45:41.3727|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 13:45:41.3914|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 13:45:41.3914|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 13:45:41.3914|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 13:45:41.3914|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 13:49:34.1361|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 13:49:34.1555|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 13:49:34.1555|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 13:49:34.1555|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 13:49:34.1555|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 14:21:32.9127|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 14:23:20.9929|ERROR|api.Program|An Error Ocurred During Migration
+2021-07-30 14:23:21.1512|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 14:23:21.1512|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 14:23:21.1512|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 14:23:21.1512|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 14:23:21.1512|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 14:24:57.9685|ERROR|api.Program|An Error Ocurred During Migration
+2021-07-30 14:24:58.1351|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 14:24:58.1378|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 14:24:58.1378|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 14:24:58.1378|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 14:24:58.1378|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 14:26:39.7193|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-07-30 14:27:17.2289|ERROR|api.Program|An Error Ocurred During Migration
+2021-07-30 14:27:17.3902|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 14:27:17.3902|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 14:27:17.3953|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 14:27:17.3953|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 14:27:17.3953|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-07-30 14:46:49.6890|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-07-30 14:46:49.7147|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-07-30 14:46:49.7147|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-07-30 14:46:49.7147|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-07-30 14:46:49.7147|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\PRACTECNOLOGIA03\Documents\Api\api
+2021-08-04 11:37:29.9823|ERROR|api.Program|An Error Ocurred During Migration
+2021-08-04 11:37:30.5492|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 11:37:30.5492|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 11:37:30.5492|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 11:37:30.5564|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 11:37:30.5564|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 11:46:34.9286|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 11:46:44.0387|ERROR|api.Program|An Error Ocurred During Migration
+2021-08-04 11:46:44.2139|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 11:46:44.2139|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 11:46:44.2139|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 11:46:44.2212|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 11:46:44.2212|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 11:47:40.2217|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 11:47:46.0414|ERROR|api.Program|An Error Ocurred During Migration
+2021-08-04 11:47:46.2185|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 11:47:46.2211|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 11:47:46.2211|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 11:47:46.2211|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 11:47:46.2211|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 12:46:42.8229|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 12:46:49.4511|ERROR|api.Program|An Error Ocurred During Migration
+2021-08-04 12:46:49.6375|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 12:46:49.6375|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 12:46:49.6375|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 12:46:49.6375|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 12:46:49.6375|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 12:48:37.0532|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 12:50:26.3160|ERROR|api.Program|An Error Ocurred During Migration
+2021-08-04 12:50:26.4871|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 12:50:26.4871|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 12:50:26.4871|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 12:50:26.4871|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 12:50:26.4871|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 13:07:38.0321|ERROR|api.Program|An Error Ocurred During Migration
+2021-08-04 13:07:38.2516|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 13:07:38.2516|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 13:07:38.2516|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 13:07:38.2516|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 13:07:38.2516|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 13:11:10.2799|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 13:11:15.9125|ERROR|api.Program|An Error Ocurred During Migration
+2021-08-04 13:11:16.0573|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 13:11:16.0573|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 13:11:16.0624|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 13:11:16.0624|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 13:11:16.0624|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 13:11:34.4550|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 13:11:40.2591|ERROR|api.Program|An Error Ocurred During Migration
+2021-08-04 13:11:40.4195|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 13:11:40.4226|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 13:11:40.4226|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 13:11:40.4226|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 13:11:40.4226|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 14:51:29.5618|ERROR|api.Program|An Error Ocurred During Migration
+2021-08-04 14:51:29.7182|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 14:51:29.7182|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 14:51:29.7182|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 14:51:29.7182|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 14:51:29.7182|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 14:51:43.9556|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 14:53:02.3600|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 14:53:07.4483|ERROR|api.Program|An Error Ocurred During Migration
+2021-08-04 14:53:07.5975|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 14:53:07.5975|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 14:53:07.5975|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 14:53:07.6037|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 14:53:07.6037|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 14:53:10.8423|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 14:53:46.4680|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 14:53:53.0637|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 14:55:00.2504|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 14:55:03.5218|ERROR|api.Program|An Error Ocurred During Migration
+2021-08-04 14:55:03.6623|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 14:55:03.6623|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 14:55:03.6677|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 14:55:03.6677|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 14:55:03.6677|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 14:55:06.1325|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 14:55:50.2565|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 14:55:56.2647|ERROR|api.Program|An Error Ocurred During Migration
+2021-08-04 14:55:56.3997|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 14:55:56.4025|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 14:55:56.4025|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 14:55:56.4025|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 14:55:56.4025|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 14:56:24.9238|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 14:56:40.7092|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:08:09.2214|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 15:08:14.8675|ERROR|api.Program|An Error Ocurred During Migration
+2021-08-04 15:08:15.0000|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 15:08:15.0000|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 15:08:15.0055|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 15:08:15.0055|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 15:08:15.0055|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 15:08:31.8065|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:08:32.9418|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:08:36.7495|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:08:37.7333|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:08:38.2484|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:08:38.6097|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:08:39.6918|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:08:40.3405|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:08:40.6387|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:12:01.0054|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 15:12:26.5269|ERROR|api.Program|An Error Ocurred During Migration
+2021-08-04 15:12:26.6717|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 15:12:26.6717|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 15:12:26.6717|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 15:12:26.6787|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 15:12:26.6787|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 15:12:36.6768|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:12:37.6197|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:12:37.9253|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:12:47.4108|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:12:48.1876|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:12:48.7585|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:12:49.2248|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:12:49.6812|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-04 15:18:56.7747|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 15:19:04.3045|ERROR|api.Program|An Error Ocurred During Migration
+2021-08-04 15:19:04.4536|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 15:19:04.4536|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 15:19:04.4582|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 15:19:04.4582|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 15:19:04.4582|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 15:19:39.5526|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 15:21:43.1227|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 15:21:43.1426|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 15:21:43.1426|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 15:21:43.1426|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 15:21:43.1426|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 15:25:16.2338|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 15:25:23.8825|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 15:25:23.9025|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 15:25:23.9053|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 15:25:23.9053|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 15:25:23.9053|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
