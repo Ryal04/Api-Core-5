@@ -339,3 +339,9 @@ CREATE TABLE "Movies" (
 2021-08-04 16:39:56.5284|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
 2021-08-04 16:39:56.5284|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
 2021-08-04 16:39:56.5350|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-04 16:43:34.7651|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-04 16:52:00.2639|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-04 16:52:00.2838|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-04 16:52:00.2838|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-04 16:52:00.2884|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-04 16:52:00.2884|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api

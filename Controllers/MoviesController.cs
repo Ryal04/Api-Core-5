@@ -25,6 +25,7 @@ namespace api.Controllers
             var movies = _repository.GetMovies();
             return Ok(_mapper.Map<IEnumerable<MovieDto>>(movies));
         }
+        
         [HttpGet("{id}")]
         public IActionResult GetMovie(int id, bool includeCast)
         {
