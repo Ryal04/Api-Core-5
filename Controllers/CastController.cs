@@ -1,7 +1,9 @@
 using System;
+using System.Collections.Generic;
 using System.Linq;
 using api.Models;
 using api.Services;
+using AutoMapper;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -15,54 +17,52 @@ namespace api.Controllers
         public ILogger<CastController> _logger;
         private IMailService _localMailService;
         private IMovieInfoRepository _repository;
+        private IMapper _mapper;
 
-        public CastController(ILogger<CastController> logger, IMailService localMailService, IMovieInfoRepository repository)
+        public CastController(ILogger<CastController> logger, IMailService localMailService, IMovieInfoRepository repository, IMapper mapper)
         {
             _logger = logger ?? throw new ArgumentNullException(nameof(logger));
             _localMailService = localMailService ?? throw new ArgumentNullException(nameof(logger));
             _repository = repository ?? throw new ArgumentNullException(nameof(repository));
+            _mapper = mapper ?? throw new ArgumentNullException(nameof(mapper));
         }
 
 
         [HttpGet]
         public IActionResult GetCasts(int movieId)
         {
-            
+
             if (!_repository.MovieExists(movieId))
             {
                 return NotFound();
             }
-            
+            var casts = _repository.GetCastsByMovie(movieId);
 
-                return Ok();
-            
+            return Ok(_mapper.Map<IEnumerable<CastDto>>(casts));
+
         }
 
         [HttpGet("{id}", Name = "GetCasts")]
-        public IActionResult GetActionResult(int movieId, int id)
+        public IActionResult GetCasts(int movieId, int id)
         {
-
             try
             {
-
-                var movie = MovieDataStore.Current.Movies.FirstOrDefault(x => x.Id == movieId);
-
-                if (movie == null)
+                if (!_repository.MovieExists(movieId))
                 {
                     return NotFound();
                 }
 
-                var cast = movie.Casts.FirstOrDefault(x => x.Id == id);
+                var cast = _repository.GetCastByMovie(movieId, id);
 
                 if (cast == null)
                 {
                     _logger.LogInformation($"El Cast Con el {id} no fue encontrado");
                     return NotFound();
                 }
-                else
-                {
-                    return Ok(cast);
-                }
+
+
+                return Ok(_mapper.Map<CastDto>(cast));
+
 
             }
             catch (System.Exception ex)

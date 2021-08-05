@@ -23,7 +23,7 @@ namespace api.Controllers
         public IActionResult GetMovies()
         {
             var movies = _repository.GetMovies();
-            return Ok(_mapper.Map<IEnumerable<MovieDto>>(movies));
+            return Ok(_mapper.Map<IEnumerable<MovieWithoutCastDto>>(movies));
         }
         
         [HttpGet("{id}")]
@@ -34,6 +34,10 @@ namespace api.Controllers
             if (!_repository.MovieExists(id))
             {
                 return NotFound();
+            }
+            
+            if(!includeCast){
+                return Ok(_mapper.Map<MovieWithoutCastDto>(movie));
             }
 
             return Ok(_mapper.Map<MovieDto>(movie));

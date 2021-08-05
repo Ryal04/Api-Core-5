@@ -8,6 +8,7 @@ namespace api.Profiles
     {
         public MovieProfile(){
             CreateMap<Movie, MovieDto>();
+            CreateMap<Movie, MovieWithoutCastDto>();
         }
     }
 }
