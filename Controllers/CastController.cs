@@ -95,23 +95,22 @@ namespace api.Controllers
         }
 
         [HttpPut("{id}")]
-        public IActionResult UpdateCast(int movieId, int id, [FromBody] CastForUpdateDto castForUpdateDto)
+        public IActionResult UpdateCast(int movieId, int id, [FromBody] CastForUpdateDto castForUpdate)
         {
-            var movie = MovieDataStore.Current.Movies.FirstOrDefault(x => x.Id == movieId);
-
-            if (movie == null)
+            if (!_repository.MovieExists(movieId))
             {
                 return NotFound();
             }
 
-            var castFromStore = movie.Casts.FirstOrDefault(x => x.Id == id);
+            var castFromStore = _repository.GetCastByMovie(movieId, id);
             if (castFromStore == null)
             {
                 return NotFound();
             }
 
-            castFromStore.name = castForUpdateDto.name;
-            castFromStore.Character = castForUpdateDto.Character;
+            _mapper.Map(castForUpdate, castFromStore);
+            _repository.UpdateCastForMovie(movieId, castFromStore);
+            _repository.Save();
 
             return NoContent();
 
@@ -120,40 +119,33 @@ namespace api.Controllers
         [HttpPatch("{id}")]
         public IActionResult PartialUpdateCast(int movieId, int id, [FromBody] JsonPatchDocument<CastForUpdateDto> patchDocument)
         {
-            var movie = MovieDataStore.Current.Movies.FirstOrDefault(x => x.Id == movieId);
-
-            if (movie == null)
+            if (!_repository.MovieExists(movieId))
             {
                 return NotFound();
             }
 
-            var castFromStore = movie.Casts.FirstOrDefault(x => x.Id == id);
+            var castFromStore = _repository.GetCastByMovie(movieId, id);
             if (castFromStore == null)
             {
                 return NotFound();
             }
 
-            var castToPatch = new CastForUpdateDto()
-            {
-                name = castFromStore.name,
-                Character = castFromStore.Character
-            };
-
+            var castToPatch = _mapper.Map<CastForUpdateDto>(castFromStore);
             patchDocument.ApplyTo(castToPatch, ModelState);
 
             if (!ModelState.IsValid)
             {
-                return BadRequest();
+                return BadRequest(ModelState);
             }
 
             if (!TryValidateModel(castToPatch))
             {
-                return BadRequest();
+                return BadRequest(ModelState);
             }
 
-            castFromStore.name = castToPatch.name;
-            castFromStore.Character = castToPatch.Character;
-
+            _mapper.Map(castToPatch, castFromStore);
+            _repository.UpdateCastForMovie(movieId, castFromStore);
+            _repository.Save();
 
             return NoContent();
         }
@@ -162,21 +154,22 @@ namespace api.Controllers
         public IActionResult DeleteCast(int movieId, int id)
         {
 
-            var movie = MovieDataStore.Current.Movies.FirstOrDefault(x => x.Id == movieId);
+           
 
-            if (movie == null)
+            if (!_repository.MovieExists(movieId))
             {
                 return NotFound();
             }
 
-            var castFromStore = movie.Casts.FirstOrDefault(x => x.Id == id);
+            var castFromStore = _repository.GetCastByMovie(movieId,id);
             if (castFromStore == null)
             {
                 return NotFound();
             }
 
             _localMailService.Send("Recurso Eliminado", $"el recurso con id {id} fue eliminado");
-            movie.Casts.Remove(castFromStore);
+            _repository.DeleteCast(castFromStore);
+            _repository.Save();
 
             return NoContent();
         }

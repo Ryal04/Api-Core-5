@@ -19,5 +19,9 @@ namespace api.Services
         void AddCastForMovie(int movieId, Cast cast);
 
         bool Save();
+        
+        void UpdateCastForMovie(int movieId, Cast cast);
+
+        void DeleteCast(Cast cast);
     }
 }

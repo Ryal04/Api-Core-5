@@ -50,5 +50,12 @@ namespace api.Services
         }
 
         public bool Save() => _context.SaveChanges() > 0;
+
+        public void UpdateCastForMovie(int movieId, Cast cast){ 
+        }
+
+        public void DeleteCast(Cast cast){
+            _context.Casts.Remove(cast);
+        }
     }
 }

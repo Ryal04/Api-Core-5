@@ -390,3 +390,82 @@ CREATE TABLE "Movies" (
 2021-08-05 11:20:44.0395|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
 2021-08-05 11:20:44.0395|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
 2021-08-05 12:17:37.1117|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-05 13:11:10.3017|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 13:11:10.3250|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 13:11:10.3250|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 13:11:10.3250|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 13:11:10.3250|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-05 13:39:05.6781|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-05 13:39:14.4643|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 13:39:14.4840|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 13:39:14.4863|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 13:39:14.4863|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 13:39:14.4863|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-05 13:47:56.3208|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-05 13:48:03.4837|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 13:48:03.5067|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 13:48:03.5067|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 13:48:03.5067|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 13:48:03.5067|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-05 14:15:21.3183|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-05 14:15:55.4248|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 14:15:55.4508|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 14:15:55.4508|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 14:15:55.4508|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 14:15:55.4508|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-05 14:19:28.4221|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-05 14:19:35.3194|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 14:19:35.3427|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 14:19:35.3427|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 14:19:35.3427|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 14:19:35.3427|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-05 14:22:12.2155|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-05 14:22:19.5548|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 14:22:19.5786|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 14:22:19.5786|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 14:22:19.5786|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 14:22:19.5786|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-05 14:27:13.2373|FATAL|Microsoft.AspNetCore.Server.Kestrel|Unable to start Kestrel.
+2021-08-05 14:27:36.8795|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-05 14:27:56.2951|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 14:27:56.3344|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 14:27:56.3398|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 14:27:56.3398|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 14:27:56.3398|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-05 14:28:36.5211|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 14:28:36.5451|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 14:28:36.5451|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 14:28:36.5451|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 14:28:36.5451|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-05 14:32:23.1139|FATAL|Microsoft.AspNetCore.Server.Kestrel|Unable to start Kestrel.
+2021-08-05 14:32:35.2078|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-05 14:32:45.3313|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 14:32:45.3537|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 14:32:45.3574|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 14:32:45.3574|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 14:32:45.3574|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-05 14:33:32.6813|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 14:33:32.7083|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 14:33:32.7191|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 14:33:32.7191|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 14:33:32.7191|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-05 14:35:31.4357|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 14:35:31.4547|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 14:35:31.4547|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 14:35:31.4547|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 14:35:31.4547|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-05 14:36:09.2666|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-05 14:36:26.5956|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-05 14:36:32.8084|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-05 14:36:39.3677|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 14:36:39.3871|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 14:36:39.3897|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 14:36:39.3897|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 14:36:39.3897|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-05 14:36:47.7764|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2021-08-05 14:50:18.9375|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-05 14:50:35.6582|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 14:50:35.6766|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 14:50:35.6766|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 14:50:35.6766|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 14:50:35.6766|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api

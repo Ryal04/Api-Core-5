@@ -10,6 +10,8 @@ namespace api.Profiles
             CreateMap<Cast, CastDto>();
             CreateMap<CasteForCreationDto, Cast>();
             CreateMap<Cast, CasteForCreationDto>();
+            CreateMap<CastForUpdateDto,Cast>().ReverseMap();
+            
         }
     }
 }
