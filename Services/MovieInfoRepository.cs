@@ -17,7 +17,8 @@ namespace api.Services
         }
         public Cast GetCastByMovie(int movieId, int castId)
         {
-            return _context.Casts.Where(x => x.MovieId == movieId && x.Id == castId).FirstOrDefault();        }
+            return _context.Casts.Where(x => x.MovieId == movieId && x.Id == castId).FirstOrDefault();
+        }
 
         public IEnumerable<Cast> GetCastsByMovie(int movieId)
         {
@@ -40,5 +41,14 @@ namespace api.Services
         }
 
         public bool MovieExists(int movieId) => _context.Movies.Any(x => x.Id == movieId);
+
+        public void AddCastForMovie(int movieId, Cast cast)
+        {
+            var movie = GetMovie(movieId, false);
+
+            movie.Casts.Add(cast);
+        }
+
+        public bool Save() => _context.SaveChanges() > 0;
     }
 }

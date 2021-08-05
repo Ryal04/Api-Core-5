@@ -8,6 +8,8 @@ namespace api.Profiles
     {
         public CastProfile(){
             CreateMap<Cast, CastDto>();
+            CreateMap<CasteForCreationDto, Cast>();
+            CreateMap<Cast, CasteForCreationDto>();
         }
     }
 }

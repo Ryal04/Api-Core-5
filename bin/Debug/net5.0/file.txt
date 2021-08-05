@@ -373,3 +373,20 @@ CREATE TABLE "Movies" (
 2021-08-05 10:27:08.2300|INFO|api.Controllers.CastController|El Cast Con el 1 no fue encontrado
 2021-08-05 10:27:14.3426|INFO|api.Controllers.CastController|El Cast Con el 4 no fue encontrado
 2021-08-05 10:27:18.0477|INFO|api.Controllers.CastController|El Cast Con el 5 no fue encontrado
+2021-08-05 11:10:36.4945|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-08-05 11:11:30.3590|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 11:11:30.3858|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 11:11:30.3900|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 11:11:30.3900|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 11:11:30.3900|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-05 11:18:34.8396|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 11:18:34.8672|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 11:18:34.8672|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 11:18:34.8672|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 11:18:34.8754|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-05 11:20:44.0119|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-08-05 11:20:44.0368|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-08-05 11:20:44.0395|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-05 11:20:44.0395|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-05 11:20:44.0395|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Users\practecnologia03\Documents\api
+2021-08-05 12:17:37.1117|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...

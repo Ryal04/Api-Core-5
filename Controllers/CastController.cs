@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using api.Entities;
 using api.Models;
 using api.Services;
 using AutoMapper;
@@ -75,28 +76,21 @@ namespace api.Controllers
         [HttpPost]
         public IActionResult CreateCast(int movieId, [FromBody] CasteForCreationDto casteForCreationDto)
         {
-            var movie = MovieDataStore.Current.Movies.FirstOrDefault(x => x.Id == movieId);
-
-            if (movie == null)
+            if (!_repository.MovieExists(movieId))
             {
                 return BadRequest();
             }
 
-            var maxCastId = MovieDataStore.Current.Movies.SelectMany(x => x.Casts).Max(p => p.Id);
+            var finalCast = _mapper.Map<Cast>(casteForCreationDto);
+            _repository.AddCastForMovie(movieId, finalCast);
+            _repository.Save();
 
-            var newCast = new CastDto
-            {
-                Id = ++maxCastId,
-                name = casteForCreationDto.name,
-                Character = casteForCreationDto.Character
-            };
-
-            movie.Casts.Add(newCast);
+            var createdCastToReturn = _mapper.Map<CasteForCreationDto>(finalCast);
 
             return CreatedAtRoute(
                 nameof(GetCasts),
-                new { movieId, id = newCast.Id },
-                casteForCreationDto
+                new { movieId, id = finalCast.Id },
+                createdCastToReturn
             );
         }
 
